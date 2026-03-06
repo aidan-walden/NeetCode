@@ -1,6 +1,6 @@
 #
 # Problem: Merge Two Sorted Linked Lists
-# Difficulty: Medium
+# Difficulty: Easy
 # URL: https://neetcode.io/problems/merge-two-sorted-linked-lists
 # Date: 2026-03-06
 #
