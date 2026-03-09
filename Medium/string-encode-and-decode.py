@@ -1,8 +1,8 @@
-/*
- * Problem: String Encode And Decode
- * URL: https://neetcode.io/problems/string-encode-and-decode
- * Date: 2026-02-06
- */
+#
+#  Problem: String Encode And Decode
+#  URL: https://neetcode.io/problems/string-encode-and-decode
+#  Date: 2026-02-06
+#
 
 class Solution:
 
